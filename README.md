@@ -112,9 +112,9 @@ Chrome Extension (Manifest v3) detecting fake reviews with **85-90% accuracy**. 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdulwasih05&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulwasih05&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdulwasih05&theme=tokyonight&hide_border=true)
+
+
 
 </div>
 
@@ -131,7 +131,7 @@ Chrome Extension (Manifest v3) detecting fake reviews with **85-90% accuracy**. 
 
 ---
 
-### ⭐ *"Building the future, one commit at a time"* ⭐
+### ⭐ *"Turning human problems to Software problems"* ⭐
 
 
 
