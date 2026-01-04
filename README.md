@@ -108,9 +108,9 @@ Chrome Extension (Manifest v3) detecting fake reviews with **85-90% accuracy**. 
 
 <div align="center">
 
-## 📊 GitHub Statistics
+<!-- ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdulwasih05&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdulwasih05&show_icons=true&theme=dark&hide_border=true&count_private=true) -->
 
 
 
@@ -131,7 +131,7 @@ Chrome Extension (Manifest v3) detecting fake reviews with **85-90% accuracy**. 
 
 ---
 
-### ⭐ *"Turning human problems to Software problems"* ⭐
+###  *"Turning human problems to Software problems"* 
 
 
 
