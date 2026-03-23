@@ -18,7 +18,7 @@
 
 ---
 
-💻 I work across the full stack — from **React** on the frontend to **Node.js**, **Express**, and **FastAPI** on the backend, with hands-on experience in **MySQL** and **MongoDB**.
+💻 I work across the full stack, from **React** on the frontend to **Node.js**, **Express**, and **FastAPI** on the backend, with hands-on experience in **MySQL** and **MongoDB**.
 
 🧠 Currently diving deep into **Machine Learning** (PyTorch, TensorFlow) and mastering **state management with Zustand** for scalable React applications. 
 
