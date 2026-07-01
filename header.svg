@@ -1,17 +1,33 @@
-<svg width="800" height="100" viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="639" viewBox="0 0 840 639" font-family="&#39;JetBrains Mono&#39;,&#39;DejaVu Sans Mono&#39;,&#39;Courier New&#39;,monospace">
   <defs>
-    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#606060;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#909090;stop-opacity:1" />
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fb4b3e"></stop>
+      <stop offset="1" stop-color="#0f0c0b"></stop>
     </linearGradient>
   </defs>
-  <style>
-    text {
-      font-family: 'Fira Code', monospace;
-      fill: url(#textGradient);
-      font-size: 50px;
-      font-weight: bold;
-    }
-  </style>
-  <text x="50%" y="65%" text-anchor="middle">Hi there, I am Wasih</text>
+  <rect x="1" y="1" width="838" height="637" rx="12" fill="#0f0c0b" stroke="#2a1c1a" stroke-width="1.5"></rect>
+  <path d="M1 13 Q1 1 13 1 H827 Q839 1 839 13 V45 H1 Z" fill="#1a100f"></path>
+  <line x1="1" y1="45" x2="839" y2="45" stroke="#2a1c1a" stroke-width="1"></line>
+  <circle cx="26" cy="23" r="6" fill="#fb4b3e"></circle>
+  <circle cx="48" cy="23" r="6" fill="#2a1c1a"></circle>
+  <circle cx="70" cy="23" r="6" fill="#2a1c1a"></circle>
+  <text x="94" y="28" font-size="13" fill="#9a8480">wasih@dev — README.md</text>
+  <rect x="38" y="74" width="764" height="3" rx="1.5" fill="url(#accent)"></rect>
+  <text x="38" y="102" font-size="14" xml:space="preserve"><tspan fill="#fb4b3e">wasih@dev</tspan><tspan fill="#c8746b">:~</tspan><tspan fill="#9a8480">$ whoami</tspan></text>
+  <text x="38" y="132" font-size="15" fill="#e2d7d4">Wasih, full-stack dev, final-year CS, perpetual tinkerer.</text>
+  <text x="38" y="178" font-size="14" xml:space="preserve"><tspan fill="#fb4b3e">wasih@dev</tspan><tspan fill="#c8746b">:~</tspan><tspan fill="#9a8480">$ whatido</tspan></text>
+  <text x="38" y="208" font-size="15"><tspan fill="#e2d7d4">I turn fuzzy human problems into software that </tspan><tspan fill="#fb4b3e">ships</tspan><tspan fill="#e2d7d4">.</tspan></text>
+  <text x="38" y="232" font-size="15" fill="#e2d7d4">UI down to the database, I build the whole thing.</text>
+  <rect x="480" y="220" width="9" height="16" fill="#fb4b3e"></rect>
+  <text x="38" y="278" font-size="14" xml:space="preserve"><tspan fill="#fb4b3e">wasih@dev</tspan><tspan fill="#c8746b">:~</tspan><tspan fill="#9a8480">$ stack --list</tspan></text>
+  <text x="38" y="308" font-size="15"><tspan fill="#8a7572">languages</tspan><tspan x="142" fill="#e2d7d4">JavaScript · TypeScript · Python · SQL</tspan></text>
+  <text x="38" y="337" font-size="15"><tspan fill="#8a7572">frontend</tspan><tspan x="142" fill="#e2d7d4">React · Next.js · Tailwind · Vite</tspan></text>
+  <text x="38" y="366" font-size="15"><tspan fill="#8a7572">backend</tspan><tspan x="142" fill="#e2d7d4">Node · Express · FastAPI</tspan></text>
+  <text x="38" y="395" font-size="15"><tspan fill="#8a7572">data</tspan><tspan x="142" fill="#e2d7d4">MySQL · PostgreSQL · Supabase</tspan></text>
+  <text x="38" y="424" font-size="15"><tspan fill="#8a7572">ml/ai</tspan><tspan x="142" fill="#e2d7d4">PyTorch · TensorFlow · Hugging Face</tspan></text>
+  <text x="38" y="465" font-size="14" xml:space="preserve"><tspan fill="#fb4b3e">wasih@dev</tspan><tspan fill="#c8746b">:~</tspan><tspan fill="#9a8480">$ history | tail -1</tspan></text>
+  <text x="38" y="495" font-size="15"><tspan fill="#8a7572">1037</tspan><tspan fill="#e2d7d4">  hackathons, OSS, and projects that go live. always building.</tspan></text>
+  <text x="38" y="541" font-size="14" xml:space="preserve"><tspan fill="#fb4b3e">wasih@dev</tspan><tspan fill="#c8746b">:~</tspan><tspan fill="#9a8480">$ status</tspan></text>
+  <text x="38" y="571" font-size="15" fill="#e2d7d4">deep in machine learning · always shipping</text>
+  <text x="38" y="599" font-size="15" letter-spacing="1" fill="#fb4b3e">[██████████] building</text>
 </svg>
