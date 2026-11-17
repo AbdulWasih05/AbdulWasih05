@@ -4,7 +4,7 @@
       <strong>Full-Stack Dev · Perpetual Tinkerer · Final-year CS.</strong>
     </td>
     <td align="right">
-      <a href="https://wasih.tech">Portfolio</a> ·
+      <a href="https://wasihh.tech">Portfolio</a> ·
       <a href="https://linkedin.com/in/iamwasih">LinkedIn</a> ·
       <a href="https://x.com/iamwasih">X</a> ·
       <a href="mailto:buildwithwasih@gmail.com">Email</a>
